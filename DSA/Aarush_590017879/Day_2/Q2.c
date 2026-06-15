@@ -20,7 +20,7 @@ int main() {
             largest = arr[i];
         }
     }
-
+    
     printf("Largest element = %d\n", largest);
 
     return 0;
